@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+if u want this with UI try this [AIRDROP TOOL WITH UI](https://github.com/satyasai69/EVM-airdrop-tool-UI)
+
 First, run the development server:
 
 ```bash
